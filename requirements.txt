@@ -1,0 +1,9 @@
+pandas
+matplotlib
+numpy
+statsmodels
+scipy
+sklearn
+pmdarima
+isodate
+bokeh
