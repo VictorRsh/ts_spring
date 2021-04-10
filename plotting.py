@@ -114,3 +114,4 @@ def _make_time_series_figure(title):
 
 
 plot_ts = output_to_notebook(plot_ts)
+plot_detection = output_to_notebook(plot_detection)

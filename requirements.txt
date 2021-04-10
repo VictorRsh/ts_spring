@@ -8,3 +8,5 @@ pmdarima
 isodate
 bokeh
 monthdelta
+tensorflowз
+keras
